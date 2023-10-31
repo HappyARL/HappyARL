@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 MIPT student 🤙
+- 🔭 MIPT student <space>  🤙
 
 for contact:
   
