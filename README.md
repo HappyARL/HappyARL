@@ -8,21 +8,21 @@ Hello! I am Aliyev Arlan, a Computer Science student from the Moscow Institute o
 ## Projects
 Here are some of the areas I have worked on that reflect my interests and expertise:
 
-### :brain: C++ Projects
+### :books::bulb: C++ Projects
 - [Data structures](https://pastebin.com/u/happyarl).
 - [Implemented algorithms](https://github.com/HappyARL/DijkstraVisitor_on_AbstractGraph).
 
-### :snake: Python Projects
+### :snake::bar_chart: Python Projects
 - Cipher project. 
 
-### :package: SQL Projects
+### :package::floppy_disk: SQL Projects
 - [Database Management](https://github.com/HappyARL/DB_2023_project).
 
 ## :star_struck: Interests
 Apart from the information above, I am interested in the following areas:
-- Artificial Intelligence
-- Software Development
-- High-Performance Computing
+- Artificial Intelligence :brain:
+- Software Development :computer:
+- High-Performance Computing :mechanical_arm: 
 
 > Помимо вышеприведенной информации, меня интересуют следующие области:
 > - Искусственный интеллект
