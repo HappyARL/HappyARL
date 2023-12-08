@@ -13,7 +13,8 @@ Here are some of the areas I have worked on that reflect my interests and expert
 - [Implemented algorithms](https://github.com/HappyARL/DijkstraVisitor_on_AbstractGraph).
 
 ### :snake::bar_chart: Python Projects
-- Cipher project. 
+- Cipher project.
+- Telegram Bot.
 
 ### :package::floppy_disk: SQL Projects
 - [Database Management](https://github.com/HappyARL/DB_2023_project).
