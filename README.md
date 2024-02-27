@@ -5,6 +5,8 @@ Hello! I am Aliyev Arlan, a Computer Science student from the Moscow Institute o
 
 > Привет! Я Алиев Арлан, студент факультета компьютерных наук Московского физико-технического института (МФТИ). У меня хорошие знания C++, Python и SQL, и я увлечен использованием этих навыков для решения сложных задач и разработки инновационных решений.
 
+<img src="https://github-readme-stats.vercel.app/api?username=happyarl&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" width="480" /><span>    </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyarl&layout=compact&hide=html,css,scss&langs_count=5" height="190">
+
 ## Projects
 Here are some of the areas I have worked on that reflect my interests and expertise:
 
