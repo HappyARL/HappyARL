@@ -1,4 +1,4 @@
-# Welcome!:wave:
+# Welcome! :wave:
 
 ## :nerd_face: About Me
 Hello! I am Aliyev Arlan, a Computer Science student from the Moscow Institute of Physics and Technology (MIPT). I have a good foundation in C++, Python, and SQL, and I am passionate about leveraging these skills to solve complex problems and develop innovative solutions.
