@@ -16,7 +16,7 @@ Here are some of the areas I have worked on that reflect my interests and expert
 
 ### :snake::bar_chart: Python Projects
 - Cipher project.
-- Telegram Bot.
+- [Telegram Bot](https://github.com/HappyARL/KinoBot/tree/main).
 
 ### :package::floppy_disk: SQL Projects
 - [Database Management](https://github.com/HappyARL/DB_2023_project).
