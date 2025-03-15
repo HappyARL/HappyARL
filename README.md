@@ -11,27 +11,14 @@ Hello! I am Aliyev Arlan, a Computer Science student from the Moscow Institute o
 ## Projects
 Here are some of the areas I have worked on that reflect my interests and expertise:
 
-### :books::bulb: C++ Projects
-- [Data structures](https://pastebin.com/u/happyarl).
-- [Implemented algorithms](https://github.com/HappyARL/DijkstraVisitor_on_AbstractGraph).
-
-### :snake::bar_chart: Python Projects
-- Cipher project.
-- [Telegram Bot](https://github.com/HappyARL/KinoBot/tree/main).
-
-### :package::floppy_disk: SQL Projects
+### :books::bulb: Study projects:
+- [Data structures on C++](https://pastebin.com/u/happyarl).
+- [Implemented algorithms on C++](https://github.com/HappyARL/DijkstraVisitor_on_AbstractGraph).
 - [Database Management](https://github.com/HappyARL/DB_2023_project).
 
-## :star_struck: Interests
-Apart from the information above, I am interested in the following areas:
-- Artificial Intelligence :brain:
-- Software Development :computer:
-- High-Performance Computing :mechanical_arm: 
-
-> Помимо вышеприведенной информации, меня интересуют следующие области:
-> - Искусственный интеллект
-> - Разработка программного обеспечения
-> - Высокопроизводительные вычисления
+### :snake::bar_chart: Own projects
+- [Telegram Bot on Python](https://github.com/HappyARL/KinoBot/tree/main).
+- [Ecosystem Simulator on C++](https://github.com/HappyARL/Ecosystem_Simulator)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyarl&show_icons=true&locale=en&layout=compact" alt="happyarl" /></p>
 
